@@ -1,6 +1,7 @@
+---
 title: "Mükemmel BLog postu"
 date: 2020-10-31
-
+---
 # Mükemmel BLog postum
 
 qwldkşqwdkşqw
@@ -15,4 +16,4 @@ d
  * 12321
  * 12312
  * 21321
-*2e213
+* 2e213
